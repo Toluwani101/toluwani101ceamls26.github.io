@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
