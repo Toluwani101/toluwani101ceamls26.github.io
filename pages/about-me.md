@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Toluwani Olasoko
+  role: Junior, Electrical Engineering 
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/toluwaniolasoko/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hey! I'm Toluwani, an Electrical Engineering student in the CEAMLS SAIRI Summer Research program.
 
     My research interests sit at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
