@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Toluwani Olasoko
   role: Junior, Electrical Engineering 
-  image: /assets/images/profile.svg
+  image: /assets/images/professional photo .jpg
   linkedin: https://www.linkedin.com/in/toluwaniolasoko/
   bio: |
     Hey! I'm Toluwani, an Electrical Engineering student in the CEAMLS SAIRI Summer Research program.
