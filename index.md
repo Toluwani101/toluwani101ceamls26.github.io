@@ -9,8 +9,8 @@ motto: "Curious about how research can shape better tools for everyday life."
 quick_facts:
   - "🎓 Junior, Electrical Engineering"
   - "🔬 Interested in AI and Machine Learning"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "📍 Based in Washington, DC"
+  - 
 
 linkedin: https://www.linkedin.com/in/toluwaniolasoko/
 image: assets/images/professional photo .jpg
