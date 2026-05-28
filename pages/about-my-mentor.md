@@ -20,7 +20,7 @@ faculty_mentor:
   name: Dr. Yuhan Jiang
   title: Associate Professor, School of Engineering
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  linkedIn: https://example.com/pat-nguyen
   bio: |
     Dr. Jiang leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
