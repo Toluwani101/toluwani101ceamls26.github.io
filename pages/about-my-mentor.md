@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Derrick Mirindi
   title: PhD Candidate, Architecture, Urbanism, and Built Environments
-  image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  image: <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/71624d36-5f67-444f-bff7-48c22f646ec9" />
+  LinkedIn: https://www.linkedin.com/in/derrick-mirindi-18b538b8/
   bio: |
     Derrick is a PhD candidate working on adaptive systems and embedded machine learning.
     They've been an incredible mentor — patient with my questions and great at helping
