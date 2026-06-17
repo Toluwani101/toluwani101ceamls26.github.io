@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Derrick Mirindi
   title: PhD Candidate, Architecture, Urbanism, and Built Environments
-  image: 
+  image: assets/images/derrick prof photo.jpeg
   website: https://www.linkedin.com/in/derrick-mirindi-18b538b8/
   bio: |
     Derrick is a PhD candidate working on adaptive systems and embedded machine learning.
@@ -19,8 +19,8 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Yuhan Jiang
   title: Associate Professor, School of Civil Engineering
-  image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  image: assets/images/yuhan prof photo.png
+  website: https://www.linkedin.com/in/yuhan-jiang-aa9097b9/
   bio: |
     Dr. Jiang leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
