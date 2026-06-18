@@ -14,7 +14,9 @@ problem: |
     The gap this project addresses is the connection between object detection and robotic action. YOLO models can detect objects quickly, but the project focuses on applying YOLO to small LEGO pieces, evaluating how well the model performs, and moving toward an edge AI system where a webcam, AI model, and robotic arm can work together in real time.
 
 approach: |
-   - Step 1 — Prepare and train the YOLO model with a large LEGO dataset
+
+  These are the steps below:
+  - Step 1 — Prepare and train the YOLO model with a large LEGO dataset
 We will use a dataset of about 2,000 labeled LEGO images. The annotations have been converted from XML format to YOLO .txt format so the dataset can be used for YOLO training. The model will be trained using Ultralytics YOLO, Python, and an NVIDIA GPU running on Linux OS.
   - Step 2 — Evaluate the object detection performance
 After training, we will evaluate the model using common YOLO performance metrics such as precision, recall, F1 score, IoU, mAP50, and mAP50-95. This will help us understand which LEGO bricks the model detects accurately and which ones are more difficult to detect because of size, color similarity, lighting, or overlapping pieces.
