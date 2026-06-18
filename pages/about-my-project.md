@@ -34,7 +34,7 @@ approach: |
   - Step 6 — Communicate the results
     We will document the process through daily reports, research writing, presentation slides, and a final research symposium presentation.
 
-expected_outcome: |
+outcome: |
   By the end of the program, we expect to produce a trained YOLO object detection model that can identify selected LEGO bricks from images or live webcam footage.
 
   We also expect to produce Python code, a prepared YOLO-format dataset, performance evaluation results, and a list of LEGO brick types that the model can detect with high accuracy versus those that are more challenging.
