@@ -9,25 +9,21 @@ about:
   image: /assets/images/professional photo .jpg
   linkedin: https://www.linkedin.com/in/toluwaniolasoko/
   bio: |
-    Hey! I'm Toluwani, an Electrical Engineering student in the CEAMLS SAIRI Summer Research program.
+    Toluwani Olasoko is an Electrical Engineering student at Howard University and an AI/ML Research Intern at Morgan State University. His work focuses on applying artificial intelligence, computer vision, and robotics to real-world engineering challenges, including YOLO-based object detection for LEGO assembly and human-robot collaboration. Through his research, Toluwani is developing skills in Python, Linux, edge AI, image processing, dataset preparation, model training, and performance evaluation. He is passionate about using technology to expand access, solve practical problems, and create meaningful impact in underserved communities.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
-
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me learning coding languages, or working on small
+    side projects with friends, or at the gym.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+    - icon: 
+      title: Marvel Movies
+      description: I keep up with all Marvel Movies that are released.
     - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+      title: Gym
+      description: Going to the gym is how I reset.
     - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      title: Learning
+      description: I love learning new things and putting my mind out there.
 
   gallery:
     - image: /assets/images/gallery-1.svg
