@@ -15,10 +15,10 @@ about:
     side projects with friends, or at the gym.
 
   hobbies:
-    - icon: 
+    - icon: ⚡
       title: Marvel Movies
       description: I keep up with all Marvel Movies that are released.
-    - icon: 🚲
+    - icon: 🏋🏾‍♂️
       title: Gym
       description: Going to the gym is how I reset.
     - icon: 📚
@@ -26,9 +26,7 @@ about:
       description: I love learning new things and putting my mind out there.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
+    - image: assets/images/training yolo model.jpeg
       caption: YOLO training in progress.
     - image: assets/images/team group photo.jpeg
       caption: Group Photo.
