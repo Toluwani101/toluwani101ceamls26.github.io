@@ -16,7 +16,7 @@ problem: |
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
+  - Step 1 — Train YOLO Model with large dataset
   - Step 2 — the next phase of the work
   - Step 3 — how you'll evaluate or test
   - Step 4 — how you'll communicate the results
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Derrick Mirindi
+  linkedin: https://www.linkedin.com/in/derrick-mirindi-18b538b8/
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Yuhan Jiang
+  linkedin: https://www.linkedin.com/in/yuhan-jiang-aa9097b9/?skipRedirect=true
 ---
